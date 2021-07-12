@@ -1,2 +1,1 @@
-# icp-website
-Site vitrine ICP
+# Starter html
